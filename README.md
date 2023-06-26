@@ -15,6 +15,7 @@ The user may clone the repository from GitHub and will need to run "npm i" as th
 
 ## Usage
 View the walkthrough video here: 
+[E-Commerce .webm](https://github.com/Bradford-Lee/E-commerce/assets/127280322/1ba43fe2-e9f4-4d72-9cb4-f64cbf21d4b4)
 
 ## Contributing
 N/A
